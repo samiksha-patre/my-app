@@ -1,0 +1,38 @@
+.body{
+  margin: o;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+}
+
+.container{
+  text-align: center;
+  padding: 50px;
+  background-color: white;
+  margin: 10px auto;
+  width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px;
+}
+
+.h1{
+  color: burlywood;
+}
+
+.p{
+  color: rebeccapurple;
+}
+
+.mybutton{
+padding: 8px 16px;
+margin-top: 20px;
+background-color: chocolate;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+
+}
+
+.mybutton:hover{
+background-color: antiquewhite;
+}
